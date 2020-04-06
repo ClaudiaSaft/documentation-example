@@ -1,0 +1,5 @@
+name: documentation-example
+title: Documentation Example Project 
+version: 1.0.0
+nav: 
+- modules/FirstPage/nav.adoc
