@@ -1,3 +1,0 @@
-= Documentation Example
-
-Here goes the text about something worth documenting.
